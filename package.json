@@ -1,0 +1,19 @@
+{
+  "name": "web3-fundamentals.github.io",
+  "version": "0.0.1",
+  "description": "A public collection of the fundamental concepts and ideas of web3 to help people get started quickly in this space.",
+  "main": "index.js",
+  "authors": {
+    "name": "Louis M. Morgner",
+    "email": "louis@louismorgner.com"
+  },
+  "repository": "/web3-fundamentals.github.io",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
